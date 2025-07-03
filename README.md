@@ -15,7 +15,7 @@
 
 ## 内容来源
 
-本仓库中的所有文章均由我个人开发的工具 **[Zin Flow](https://wanyi.dev)** 从网页抓取并自动转换为 Markdown 格式。
+本仓库中的所有文章均由我个人开发的工具 **[Zin Flow](https://wanyi.dev/zh/zinflow)** 从网页抓取并自动转换为 Markdown 格式。
 
 ## 免责声明
 
